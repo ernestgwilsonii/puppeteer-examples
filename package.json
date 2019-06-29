@@ -1,0 +1,32 @@
+{
+  "name": "generic-puppeteer-examples",
+  "version": "1.0.0",
+  "description": "Puppeteer Examples",
+  "main": "flip-through-sites_example.js",
+  "scripts": {
+    "start": "node flip-through-sites_example.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ernestgwilsonii/puppeteer-examples.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ernestgwilsonii/puppeteer-examples/issues"
+  },
+  "homepage": "https://github.com/ernestgwilsonii/puppeteer-examples",
+  "keywords": [
+    "bots",
+    "chatops",
+    "puppeteer"
+  ],
+  "author": {
+    "email": "ErnestGWilsonII@gmail.com",
+    "name": "Ernest G. Wilson II",
+    "url": "https://github.com/ernestgwilsonii"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.18.1"
+  },
+  "devDependencies": {}
+}
