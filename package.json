@@ -1,10 +1,10 @@
 {
   "name": "generic-puppeteer-examples",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Puppeteer Examples",
-  "main": "flip-through-sites_example.js",
+  "main": "speech.js",
   "scripts": {
-    "start": "node flip-through-sites_example.js"
+    "start": "node speech.js"
   },
   "repository": {
     "type": "git",
@@ -17,7 +17,9 @@
   "keywords": [
     "bots",
     "chatops",
-    "puppeteer"
+    "puppeteer",
+    "web scraper",
+    "web automation"
   ],
   "author": {
     "email": "ErnestGWilsonII@gmail.com",
@@ -26,7 +28,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "puppeteer": "^1.18.1"
+    "puppeteer": "^7.1.0"
   },
   "devDependencies": {}
 }
