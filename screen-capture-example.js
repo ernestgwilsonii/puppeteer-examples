@@ -7,7 +7,7 @@ const puppeteer = require('puppeteer');
   });
   const page = await browser.newPage();
   await page.goto('https://github.com/');
-  await page.screenshot({ path: 'screen-capture-example.png' });
+  await page.screenshot({ path: 'screen-capture-example.png', fullPage: true });
 
   await browser.close();
 })();
