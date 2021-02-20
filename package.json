@@ -28,7 +28,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "puppeteer": "^7.1.0"
-  },
-  "devDependencies": {}
+    "puppeteer": "^7.1.0",
+    "xlsx": "^0.16.9"
+  }
 }
