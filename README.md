@@ -3,6 +3,7 @@
 - REF: https://pptr.dev
 - REF: https://www.aymen-loukil.com/en/blog-en/google-puppeteer-tutorial-with-examples/
 - REF: https://github.com/GoogleChromeLabs/puppeteer-examples
+- REF: https://nitayneeman.com/posts/getting-to-know-puppeteer-using-practical-examples/
 
 ### Video Guides
 - [Automated Form Submissions with Chrome Puppeteer & NodeJS](https://www.youtube.com/watch?v=6IOrp8HgnJU)
@@ -11,6 +12,9 @@
 - [Browser Automation - Puppeteer NodeJS p.1](https://www.youtube.com/watch?v=xUqK8VFhu64)
 - [JavaScript DOM Tutorial #4 - The Query Selector](https://www.youtube.com/watch?v=JlgLDfINXvY)
 - [JavaScript DOM Crash Course - Part 1](https://www.youtube.com/watch?v=0ik6X4DJKCc)
+
+### Get the Chrome plug-in to record and create actual code snippets!
+- [Headless Recorder](https://chrome.google.com/webstore/detail/headless-recorder/djeegiggegleadkkbgopoonhjimgehda/related)
 
 #### Try it!
 ```
