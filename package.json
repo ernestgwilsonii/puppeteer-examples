@@ -4,7 +4,8 @@
   "description": "Puppeteer Examples",
   "main": "speech.js",
   "scripts": {
-    "start": "node speech.js"
+    "start": "node speech.js",
+    "clean": "rm *.png"
   },
   "repository": {
     "type": "git",
