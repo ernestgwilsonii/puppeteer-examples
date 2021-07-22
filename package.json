@@ -30,6 +30,6 @@
   "license": "MIT",
   "dependencies": {
     "puppeteer": "^7.1.0",
-    "xlsx": "^0.16.9"
+    "xlsx": "^0.17.0"
   }
 }
